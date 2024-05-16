@@ -1,0 +1,217 @@
+% a mashup of hipstercv, friggeri and twenty cv
+% https://www.latextemplates.com/template/twenty-seconds-resumecv
+% https://www.latextemplates.com/template/friggeri-resume-cv
+
+\documentclass[allblack]{simplehipstercv}
+% available options are: darkhipster, lighthipster, pastel, allblack, grey, verylight, withoutsidebar
+% withoutsidebar
+\usepackage[utf8]{inputenc}
+\usepackage[default]{raleway}
+\usepackage[margin = 0.5cm, a4paper]{geometry}%margin=1cm
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+
+%------------------------------------------------------------------ Variablen
+
+\newlength{\rightcolwidth}
+\newlength{\leftcolwidth}
+\setlength{\leftcolwidth}{0.75\textwidth}
+\setlength{\rightcolwidth}{0.75\textwidth}
+
+%------------------------------------------------------------------
+\title{Private Sector CV}
+\author{Jared Holland}
+\date{April 2024}
+
+\pagestyle{empty}
+\begin{document}
+
+\thispagestyle{empty}
+%-------------------------------------------------------------
+\section*{}
+
+\simpleheader{headercolour}{Jared}{Holland}{Mechanical Engineer: Sylva, North Carolina 28779}{white}
+
+%-------------------------------------------------------------
+
+% this has to be here so the paracols starts..
+\subsection*{}
+\vspace{5em}
+
+\setlength{\columnsep}{2cm}
+\columnratio{0.25}[0.75]
+\begin{paracol}{2}
+\hbadness5000
+
+%\backgroundcolor{c[1]}[rgb]{1,1,0.8} % cream yellow for column-1 %\backgroundcolor{g}[rgb]{0.8,1,1} % \backgroundcolor{l}[rgb]{0,0,0.7} % dark blue for left margin
+
+\paracolbackgroundoptions
+% 0.9,0.9,0.9 -- 0.8,0.8,0.8
+
+
+\footnotesize
+{\setasidefontcolour
+\flushleft
+
+\bg{cvgreen}{white}{About me}\\[0.5em]
+
+{\footnotesize
+A results-driven engineering
+professional with a strong
+foundation in mechanical design
+and a keen interest in the
+development of new products,
+seeking to leverage my years of
+hands-on industry experience and
+my educational background to
+contribute to Insight Global.}\\
+\bigskip
+\bg{cvgreen}{white}{Areas of specialization} \\[0.5em]
+
+3D CAD Software ~•~ CFD Simulation ~•~ FEA Analysis ~•~ Python ~•~ MATLAB/Octave ~•~ 3D Printing Technology ~•~ Mechanical Drawings ~•~ CNC Machining\\
+
+\bigskip
+
+\bg{cvgreen}{white}{Interests}\\[0.5em]
+
+Blacksmithing, 3D printing, Robotics, CNC Machining,
+Hiking, Plants, Guitar\\
+\bigskip
+
+\infobubble{\faEnvelopeO}{cvgreen}{white}{jsholland231@gmail.com}
+\infobubble{\faPhone}{cvgreen}{white}{828-342-7788}
+
+\phantom{turn the page}
+\phantom{turn the page}
+}
+%-----------------------------------------------------------
+\switchcolumn
+\section*{Employment History}
+\begin{tabular}{r| p{0.5\textwidth} c}
+    \cvevent{2023--2024}{Leidos: Power Distribution}{Power Distribution Engineer}{Asheville, NC \color{cvred}}{
+        \begin{itemize}
+            \item Developed power pole layouts in collaboration with Duke Energy, 
+            demonstrating expertise in engineering design principles and adherence to industry standards.
+            \item Managed bill of materials to ensure the reliability and efficiency of distribution circuits, 
+            contributing to the seamless operation of the North Carolina power distribution system.
+            \item Utilized Maximo to facilitate effective communication and coordination of permitting efforts and vital design information, 
+            optimizing construction processes for field personnel and minimizing project delays.
+            \item Performed field survey work to inspect and gather data on each power pole assigned to the Leidos Asheville 
+            office so that the engineering team had sufficient data to start their designs.
+            \item Leveraged ArcGIS to generate preliminary designs, proactively identifying and addressing potential environmental, structural, 
+            and permitting challenges before initiating formal design processes.
+        \end{itemize}
+    } \\
+    \cvevent{2022--2023}{TekTone: Sound \& Signal}{Mechanical Engineering Intern}{Franklin, NC \color{cvred}}{
+        \begin{itemize}
+            \item Led the design of mechanical components for two anti-vandal nurse call stations, overseeing the entire lifecycle from conceptualization to successful product launch. 
+            Utilized Gantt Project for efficient project management, facilitating collaboration with cross-functional teams and ensuring timely achievement of project milestones.
+            %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+            \item Spearheaded the development of high-quality 3D printable test fixtures to enhance production processes, collaborating closely with production floor workers and machine shop personnel to ensure design accuracy and manufacturability. 
+            Implemented ASME standards and best practices in mechanical drawings, demonstrating a commitment to quality and precision engineering.
+            %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+            \item Introduced and implemented 3D printing technology that aided in producing corrective parts, resulting in cost savings and helped streamline production processes that were designed to correct the issues found. 
+            %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+            \item Conducted research projects that involved root cause analysis among other optimization studies. These projects used software tools such as R Studio, Python,
+            and MATLAB/Octave to produce high-quality graphs and figures that were then organized in \LaTeX{} for presentation to management and interested parties.
+        \end{itemize}
+    } \\ 
+    \cvevent{2019--2022}{TekTone: Sound \& Signal}{Manufacturing Engineering Intern}{Franklin, NC \color{cvred}}{
+        \begin{itemize}
+            \item Worked with other technicians to run various parts of the automation line to ensure we met the production quota. 
+            This fostered a culture among the automated assembly line workers of inclusiveness, excellence, and teamwork. 
+            We viewed our fellow workers’ success as our own success.
+            \item Developed Python script modules for KiCAD circuit board design software, enabling seamless communication between engineering and production teams. 
+            These modules generated usable files for the Panasonic automation line and the SPEA 4080, improving design efficiency and reducing errors in manufacturing.
+            \item Demonstrated initiative and dedication, progressing from an electronics assembly worker to a Manufacturing Engineering Intern within a short period, 
+            showcasing adaptability and a strong work ethic. 
+        \end{itemize}
+    }
+\end{tabular}
+\newpage
+\vspace{5em}
+\section*{Education}
+    \begin{tabular}{r| p{0.5\textwidth} c}
+        \cvevent{2019--2023}{Bachelors In Mechanical Engineering}{Western Carolina University}{Cullowhee, NC \color{cvred}}{
+            \newline    
+            \textbf{CubeSat Capstone Project}
+            \newline
+            \textit{fall and spring senior semesters}
+            \begin{itemize}
+                \item Led a multidisciplinary team in the development of a CubeSat Capstone Project, serving as a bridge between mechanical engineering principles and aerospace design practices.
+                \item Conducted extensive preliminary research to inform project progress, contributing to the successful completion of milestones within the allocated time frame.
+                \item Utilized programming skills in VS Code to support electrical engineering team members with logic board programming and conducted design audits of circuit boards using KiCAD circuit board design software.
+                \item Oversaw the design and fabrication of the mechanical frame, ensuring compliance with project requirements and specifications.
+                \item Facilitated communication with sponsors and engineering mentors, providing regular updates and sharing design results to guide project direction and meet sponsor objectives.
+            \end{itemize}
+            \textbf{Academic Achievements}
+            \begin{itemize}
+                \item Dean's List recognition for outstanding academic performance.
+                \item Graduated with a minor in math.
+            \end{itemize}
+            \textbf{Technical Skills Acquired}
+            \begin{itemize}
+                \item Proficiency in Finite Element Analysis (FEA) for gantries and steel structures in both CREO parametric and Ansys.
+                \item Advanced proficiency in 3D modeling and assembly using Creo Parametric and Autodesk Inventor.
+                \item Basic understanding of Computational Fluid Dynamics (CFD) analysis using Ansys software.
+                \item Hands-on experience in waterjet cutting production workflow.
+                \item Assisted in repair and troubleshooting within the 3D print lab.
+            \end{itemize}
+        } \\
+        
+        \cvevent{2015--2019}{Associates in Science}{Southwestern Community College}{Sylva, NC \color{cvred}}{
+            \begin{itemize}
+                \item Developed proficiency in 3D printer design and modification, culminating in the construction of a customized 3D printer from scratch.
+                \item Applied knowledge in hobby electronics and utilized KiCAD for electronics design projects.
+                \item Acquired practical skills in metalworking and blacksmithing, including basic practices for MIG and Arc welding techniques.
+                \item Gained proficiency in programming languages including C++, C\#, Python, Arduino, and G-code, enabling customization of custom 3D printer firmware.
+                \item Developed strong foundations in 3D CAD software such as FreeCAD, Autodesk Inventor, and Blender, utilizing these skills to design and produce 3D printable products that funded workshop upgrades and materials.
+            \end{itemize}
+        }
+\end{tabular}
+\vspace{1em}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Software Experience and Technical Skills}
+    \begin{tabular}{||c|c|c|c||}
+        \hline
+         Python &  LaTeX & CREO Parametric & KiCAD\\
+         \hline
+         FreeCAD & CREO: FEA analysis & ANSYS & ANSYS: Fluent\\
+         \hline
+         R Studio & Octave & MATLAB & C++\\
+         \hline
+         3D Printing & Maximo & Water Jet Cutting & Product Development\\
+         \hline
+         Mechanical Drawings & VS Code & Arduino & Circuit Board Manufacturing\\
+        \hline
+    \end{tabular}
+
+\section*{Certificates}
+\begin{tabular}{>{\footnotesize\bfseries}r p{0.95\textwidth}}
+    June 2023 & 6 Axis Robotic Arms: ASME \\
+    
+    Jan 2023-Feb 2023 & Water Jet Cutting: Western Carolina University \\
+\end{tabular}
+
+\section*{References}
+\begin{tabular}{l c}
+    Leidos| Hank Seaman (Distribution Mentor): & 980-253-5045\\
+    \hline
+    Tektone| Kim Hammaker (VP manufacturing): & 828-371-4654\\
+    \hline
+    WCU| Wes Stone (Director of Engineering + Technology): & wstone@email.wcu.edu, 828-227-2181\\
+    \hline
+    WCU| Enrique Gomez (CubeSat Project Sponsor): & egomez@email.wcu.edu, 828-227-2718\\
+    \hline
+    WCU| Scott Rowe (Fluid Dynamics Professor): & srowe@email.wcu.edu, 314-601-4836
+\end{tabular}
+%\renewcommand{\paracolbackgroundoptions}
+%\vfill
+\bigskip
+\newpage
+%----------------------------------------------------------------------------------------
+%	FINAL FOOTER
+%----------------------------------------------------------------------------------------
+
+\end{paracol}
+\end{document}
