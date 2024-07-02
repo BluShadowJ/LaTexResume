@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.15)  17 JUN 2024 10:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.15)  2 JUL 2024 09:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -859,38 +859,38 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 57.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 8.0pt on input line 60.
-LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on input line 74.
+LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on input line 73.
 (c:/texlive/2021/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
 File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 74.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 89.
+(Font)              scaled to size 8.0pt on input line 73.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 88.
  (c:/texlive/2021/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/b/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 89.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 88.
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 89.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 88.
 (c:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (10.49835pt too wide) in paragraph at lines 89--91
+Overfull \hbox (10.49835pt too wide) in paragraph at lines 88--90
 [][] 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 97.
+(Font)              scaled to size 8.0pt on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 98.
+(Font)              <8> on input line 97.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 98.
+(Font)              <6> on input line 97.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 98.
+(Font)              <5> on input line 97.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 6.0pt on input line 126.
+(Font)              scaled to size 6.0pt on input line 124.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
 (Font)              scaled to size 8.0pt on input line 176.
 
@@ -899,7 +899,7 @@ Overfull \hbox (5.25552pt too wide) in paragraph at lines 191--204
  []
 
 
-Overfull \hbox (255.18436pt too wide) in paragraph at lines 206--213
+Overfull \hbox (255.18436pt too wide) in paragraph at lines 206--215
 [][] 
  []
 
@@ -917,13 +917,13 @@ Package rerunfilecheck Info: File `Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  28749 strings out of 478286
  578982 string characters out of 5850726
- 924616 words of memory out of 5000000
+ 925762 words of memory out of 5000000
  46399 multiletter control sequences out of 15000+600000
  630359 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,11n,132p,464b,897s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_yqxcf3.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Italic.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
-Output written on D:/Code/Latex/ResumeV2/Resume.pdf (3 pages, 125061 bytes).
+Output written on D:/Code/Latex/ResumeV2/Resume.pdf (3 pages, 124763 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
