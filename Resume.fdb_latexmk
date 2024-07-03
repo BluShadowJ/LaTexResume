@@ -1,10 +1,11 @@
 # Fdb version 3
-["pdflatex"] 1719927337 "d:/Code/Latex/ResumeV2/Resume.tex" "D:/Code/Latex/ResumeV2/Resume.pdf" "Resume" 1719927339
-  "D:/Code/Latex/ResumeV2/Resume.aux" 1719927339 823 636873e1082dadb6d419c9c8632fad7a "pdflatex"
-  "D:/Code/Latex/ResumeV2/Resume.out" 1719927339 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["pdflatex"] 1720017470 "d:/Code/Latex/ResumeV2/Resume.tex" "D:/Code/Latex/ResumeV2/Resume.pdf" "Resume" 1720017473
+  "D:/Code/Latex/ResumeV2/06062023_Collage.jpg" 1719933005 207093 2ac5a1254155a4d22a85d5783b705d40 ""
+  "D:/Code/Latex/ResumeV2/Resume.aux" 1720017472 823 a259f24b53b5fd06240a57481e3515c1 "pdflatex"
+  "D:/Code/Latex/ResumeV2/Resume.out" 1720017472 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "D:/Code/Latex/ResumeV2/simplehipstercv.cls" 1715877395 11125 ba6b57c0a0724df14c088bca81a5258a ""
   "D:/Code/Latex/ResumeV2/simplehipstercv.sty" 1715877395 7692 6a8c1ca17e5471a9770b9da83917bc53 ""
-  "Resume.tex" 1719927336 14314 46606845fa9fcce99c82c3be2670ff4b ""
+  "Resume.tex" 1720017469 16998 32b00bea5ba68eaa9f0ef65452a840a5 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1642266960 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1642267925 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc" 1642270480 3304 b327a193b74530cc7913fed1ac883860 ""
@@ -226,7 +227,7 @@
   "c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1642271992 4417058 0b608c5d44817b826a1c6b0dd51c3a64 ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1642272065 2796593 85929bf140b1abeebc4da1104e94ff13 ""
   "c:/texlive/2021/texmf.cnf" 1642271973 713 e69b156964470283e0530f5060668171 ""
-  "d:/Code/Latex/ResumeV2/Resume.tex" 1719927336 14314 46606845fa9fcce99c82c3be2670ff4b ""
+  "d:/Code/Latex/ResumeV2/Resume.tex" 1720017469 16998 32b00bea5ba68eaa9f0ef65452a840a5 ""
   (generated)
   "D:/Code/Latex/ResumeV2/Resume.aux"
   "D:/Code/Latex/ResumeV2/Resume.log"

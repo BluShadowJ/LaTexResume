@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.15)  2 JUL 2024 09:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.15)  3 JUL 2024 10:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -884,28 +884,45 @@ Overfull \hbox (10.49835pt too wide) in paragraph at lines 88--90
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 97.
+(Font)              <8> on input line 103.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 97.
+(Font)              <6> on input line 103.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 97.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 6.0pt on input line 124.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 176.
+(Font)              <5> on input line 103.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 103.
 
-Overfull \hbox (5.25552pt too wide) in paragraph at lines 191--204
+Underfull \hbox (badness 10000) in paragraph at lines 97--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--112
+
+ []
+
+<06062023_Collage.jpg, id=34, 715.17188pt x 589.4522pt>
+File: 06062023_Collage.jpg Graphic file (type jpg)
+<use 06062023_Collage.jpg>
+Package pdftex.def Info: 06062023_Collage.jpg  used on input line 122.
+(pdftex.def)             Requested size: 284.52757pt x 234.5085pt.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
+(Font)              scaled to size 6.0pt on input line 153.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 205.
+
+Overfull \hbox (5.25552pt too wide) in paragraph at lines 220--233
 [][] 
  []
 
 
-Overfull \hbox (255.18436pt too wide) in paragraph at lines 206--215
+Overfull \hbox (255.18436pt too wide) in paragraph at lines 235--244
 [][] 
  []
 
 [1
 
-{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] 
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <D:/Code/Latex/ResumeV2/06062023_Collage.jpg>] [2] [3] [4] 
 AED: lastpage setting LastPage
 (D:/Code/Latex/ResumeV2/Resume.aux)
 
@@ -915,18 +932,18 @@ Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28749 strings out of 478286
- 578982 string characters out of 5850726
- 925762 words of memory out of 5000000
- 46399 multiletter control sequences out of 15000+600000
- 630359 words of font info for 60 fonts, out of 8000000 for 9000
+ 28760 strings out of 478286
+ 579211 string characters out of 5850726
+ 924649 words of memory out of 5000000
+ 46406 multiletter control sequences out of 15000+600000
+ 643971 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,11n,132p,464b,897s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 129i,12n,132p,464b,897s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_yqxcf3.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Italic.pfb><c:/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
-Output written on D:/Code/Latex/ResumeV2/Resume.pdf (3 pages, 124763 bytes).
+Output written on D:/Code/Latex/ResumeV2/Resume.pdf (4 pages, 335291 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
