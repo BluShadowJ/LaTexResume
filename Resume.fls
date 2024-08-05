@@ -1100,13 +1100,6 @@ INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1.tfm
-INPUT D:/Code/Latex/ResumeV2/06062023_Collage.jpg
-INPUT D:/Code/Latex/ResumeV2/06062023_Collage.jpg
-INPUT D:/Code/Latex/ResumeV2/06062023_Collage.jpg
-INPUT D:/Code/Latex/ResumeV2/06062023_Collage.jpg
-INPUT D:/Code/Latex/ResumeV2/06062023_Collage.jpg
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Italic-tlf-t1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/impallari/raleway/Raleway-Regular-tlf-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1--base.tfm
@@ -1123,12 +1116,8 @@ INPUT c:/texlive/2021/texmf-dist/fonts/vf/impallari/raleway/Raleway-Regular-tlf-
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-ts1--base.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/impallari/raleway/Raleway-Regular-tlf-sc-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-sc-t1--base.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/vf/impallari/raleway/Raleway-Regular-tlf-t1.vf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1--base.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/impallari/raleway/Raleway-Regular-tlf-sc-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-sc-t1--base.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/vf/impallari/raleway/Raleway-Bold-tlf-t1.vf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf-t1--base.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/vf/impallari/raleway/Raleway-Italic-tlf-t1.vf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Italic-tlf-t1--base.tfm
 INPUT D:/Code/Latex/ResumeV2/Resume.aux
