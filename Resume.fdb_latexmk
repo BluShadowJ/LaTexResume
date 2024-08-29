@@ -1,11 +1,11 @@
 # Fdb version 3
-["pdflatex"] 1722885922 "d:/Code/Latex/ResumeV2/Resume.tex" "D:/Code/Latex/ResumeV2/Resume.pdf" "Resume" 1722885924
-  "D:/Code/Latex/ResumeV2/06062023_Collage.jpg" 1722885423 207093 2ac5a1254155a4d22a85d5783b705d40 ""
-  "D:/Code/Latex/ResumeV2/Resume.aux" 1722885923 823 a259f24b53b5fd06240a57481e3515c1 "pdflatex"
-  "D:/Code/Latex/ResumeV2/Resume.out" 1722885923 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["pdflatex"] 1724943668 "d:/Code/Latex/ResumeV2/Resume.tex" "D:/Code/Latex/ResumeV2/Resume.pdf" "Resume" 1724943670
+  "D:/Code/Latex/ResumeV2/06062023_Collage.jpg" 1724669377 207093 2ac5a1254155a4d22a85d5783b705d40 ""
+  "D:/Code/Latex/ResumeV2/Resume.aux" 1724943670 823 a259f24b53b5fd06240a57481e3515c1 "pdflatex"
+  "D:/Code/Latex/ResumeV2/Resume.out" 1724943669 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "D:/Code/Latex/ResumeV2/simplehipstercv.cls" 1715877395 11125 ba6b57c0a0724df14c088bca81a5258a ""
   "D:/Code/Latex/ResumeV2/simplehipstercv.sty" 1715877395 7692 6a8c1ca17e5471a9770b9da83917bc53 ""
-  "Resume.tex" 1722885918 17000 6330ecd9536068b5f191792c75c768e8 ""
+  "Resume.tex" 1724943667 18241 707f8e66aa49c0bf909edb979c96484b ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1642266960 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1642267925 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc" 1642270480 3304 b327a193b74530cc7913fed1ac883860 ""
@@ -227,7 +227,7 @@
   "c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1642271992 4417058 0b608c5d44817b826a1c6b0dd51c3a64 ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1642272065 2796593 85929bf140b1abeebc4da1104e94ff13 ""
   "c:/texlive/2021/texmf.cnf" 1642271973 713 e69b156964470283e0530f5060668171 ""
-  "d:/Code/Latex/ResumeV2/Resume.tex" 1722885918 17000 6330ecd9536068b5f191792c75c768e8 ""
+  "d:/Code/Latex/ResumeV2/Resume.tex" 1724943667 18241 707f8e66aa49c0bf909edb979c96484b ""
   (generated)
   "D:/Code/Latex/ResumeV2/Resume.aux"
   "D:/Code/Latex/ResumeV2/Resume.log"
